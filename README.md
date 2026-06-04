@@ -1,0 +1,2 @@
+# cross-organization-agent-delegated-authorization
+This example demonstrates cross-organizational delegated authorization using a simulated agent economy. Organization A delegates specific authority (e.g., reading sales data) to its agent by issuing a signed token. The agent then uses this token to request an action from Organization B's service. Organization B's service validates the token's signa
